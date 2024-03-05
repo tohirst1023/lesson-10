@@ -5,13 +5,18 @@
 }
 
 .top, .bottom {
-background-color: orange;
-display: flex;
-justify-content: space-between;
-gap: 30px;
-padding: 30px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 30px;
 }
 
 .top{
     margin-bottom: 30px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
 }
